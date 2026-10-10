@@ -160,4 +160,4 @@ Please do not report vulnerabilities in public issues. See [SECURITY.md](SECURIT
 
 ## License
 
-No license file is currently included. Public availability of this repository does not by itself grant permission to reuse, redistribute or modify the code.
+FACT is licensed under the [MIT License](LICENSE). Copyright (c) 2026 alesmcgregor.
